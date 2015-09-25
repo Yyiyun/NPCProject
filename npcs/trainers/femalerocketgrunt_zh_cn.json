@@ -7,6 +7,11 @@
         "maxPartyPokemon": 6,
         "winnings": 40
     },
+    "models":[
+        {
+            "name": "火箭队队员"
+        }
+    ],
     "pokemon": [
         {
             "name": "Pidgey"
